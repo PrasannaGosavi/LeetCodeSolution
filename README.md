@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
