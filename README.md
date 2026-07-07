@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -58,4 +59,12 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
