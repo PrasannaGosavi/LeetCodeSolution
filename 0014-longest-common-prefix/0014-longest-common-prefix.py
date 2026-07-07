@@ -9,3 +9,4 @@ class Solution:
                     return ""
 
         return prefix
+        
