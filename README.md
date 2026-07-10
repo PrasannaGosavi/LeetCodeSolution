@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0506-relative-ranks) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
