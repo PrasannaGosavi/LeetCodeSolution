@@ -44,21 +44,25 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,6 +87,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
