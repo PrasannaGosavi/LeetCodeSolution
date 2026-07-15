@@ -96,4 +96,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0052-n-queens-ii](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
