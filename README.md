@@ -23,6 +23,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -97,4 +98,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0052-n-queens-ii](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0052-n-queens-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
