@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0506-relative-ranks) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0012-integer-to-roman](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrasannaGosavi/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
